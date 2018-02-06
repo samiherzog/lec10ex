@@ -1,2 +1,2 @@
-api_key= 
-api_secret= 
+api_key= j9fat01cnnCebdQXh57MT96rW
+api_secret= sxnISZUmmJPuVP94H13IHfSuI4v5DrHUhnjEGH4O3PhgwuBFYk
