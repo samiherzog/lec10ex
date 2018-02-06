@@ -2,8 +2,8 @@
 from requests_oauthlib import OAuth1Session
 import secrets
 
-client_key = secrets.client_key
-client_secret = secrets.client_secret
+client_key = secrets.api_key
+client_secret = secrets.api_secret
 
 # STEP 1: GET A REQUEST TOKEN
 # We have to start by obtaining a 'request' token
