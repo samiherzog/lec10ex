@@ -1,2 +1,5 @@
 api_key= 'j9fat01cnnCebdQXh57MT96rW'
 api_secret= 'sxnISZUmmJPuVP94H13IHfSuI4v5DrHUhnjEGH4O3PhgwuBFYk'
+
+access_token= '612064397-RNqsMWq34vJk3LVzBpSceaIA8Gy1dI41BDGGjdMA'
+access_token_secret= '79S0pLv2DKCfPqnOBmRxHd1ghYuWEvd8NZqteBK7Zm4aw'
